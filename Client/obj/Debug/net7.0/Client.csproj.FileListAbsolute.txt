@@ -1,0 +1,15 @@
+D:\Project\Socket\Client\bin\Debug\net7.0\Client.exe
+D:\Project\Socket\Client\bin\Debug\net7.0\Client.deps.json
+D:\Project\Socket\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\Project\Socket\Client\bin\Debug\net7.0\Client.dll
+D:\Project\Socket\Client\bin\Debug\net7.0\Client.pdb
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.dll
+D:\Project\Socket\Client\obj\Debug\net7.0\refint\Client.dll
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.pdb
+D:\Project\Socket\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\Project\Socket\Client\obj\Debug\net7.0\ref\Client.dll
